@@ -5,7 +5,7 @@ const Test = (props) => {
         <motion.p 
             animate={{ scale: 2, x: 100 }}
             transition={{ type: "spring", duration: 1 }}>
-            Hello
+            Hello World
         </motion.p>
     </>
 }
